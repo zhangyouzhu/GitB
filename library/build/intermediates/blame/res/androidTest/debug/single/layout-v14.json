@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v14\\sherlock_spinner_dropdown_item.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\library\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\layout-v14\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v14\\sherlock_spinner_item.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\library\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\layout-v14\\sherlock_spinner_item.xml"
+    }
+]

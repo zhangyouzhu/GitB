@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\ASworkspace\SlidingMenuDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="bbb67ae0858354ac4044836b547ce8468cf396f9">
+        <dex dex="C:\ASworkspace\SlidingMenuDemo\app\build\intermediates\pre-dexed\debug\instant-run_e182faa409178a7f554506b41ed9d8e5d7fd1f2c.jar" />
+    </item>
+    <item
+        jar="C:\ASworkspace\SlidingMenuDemo\app\libs\crittercism_v3_0_3_sdkonly.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="17fd8b2c455671bb79b043fe79fa82846881809f">
+        <dex dex="C:\ASworkspace\SlidingMenuDemo\app\build\intermediates\pre-dexed\debug\crittercism_v3_0_3_sdkonly_ee62e6dcdbf32ac029012618c0084fee47dae5c9.jar" />
+    </item>
+    <item
+        jar="C:\AS\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\ASworkspace\SlidingMenuDemo\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_523f48e0ad92b0b34eb18838e26bedfef07a8430.jar" />
+    </item>
+    <item
+        jar="C:\ASworkspace\SlidingMenuDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="27.0.3"
+        sha1="ee89a1090daa315b26e6d083ddd06b54e6a2f1fa">
+        <dex dex="C:\ASworkspace\SlidingMenuDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a508cfa84a47ff14d0eb1140b5f4d9c09f537566.jar" />
+    </item>
+
+</items>

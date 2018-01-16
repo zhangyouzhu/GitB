@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_light.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\penguin.png",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\drawable\\penguin.png"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear_holo_light.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadowright.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\drawable\\shadowright.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_dark.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_holo_light.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_dark.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__ic_menu_moreoverflow_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ostrich.png",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\drawable\\ostrich.png"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_light.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flamingo.png",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\drawable\\flamingo.png"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__tab_indicator_ab_holo.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_indicator.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\drawable\\new_indicator.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_dark.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__search_dropdown_dark.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_holo_dark.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_light.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__search_dropdown_light.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toucan.png",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\drawable\\toucan.png"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_dark.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__activated_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_dark.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_light.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\octocat.png",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\drawable\\octocat.png"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_dark.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\peacock.png",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\drawable\\peacock.png"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_light.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__activated_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_light.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_light.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eagle.png",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\drawable\\eagle.png"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_dark.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__btn_cab_done_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_dark.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heron.png",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\drawable\\heron.png"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_light.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__btn_cab_done_holo_light.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_medium_holo.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__progress_medium_holo.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\turkey.png",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\drawable\\turkey.png"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vulture.png",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\drawable\\vulture.png"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_right_holo_light.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_right_holo_dark.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\drawable\\abs__ic_clear.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\octocat_scaled.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\drawable\\octocat_scaled.xml"
+    }
+]

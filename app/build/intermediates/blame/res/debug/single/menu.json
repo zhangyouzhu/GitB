@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\example_list.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\menu\\example_list.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\library\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\abs__screen_action_bar_overlay.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\library\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\layout-xlarge-v4\\abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "C:\\ASworkspace\\SlidingMenuDemo\\library\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\abs__screen_action_bar.xml",
+        "source": "C:\\ASworkspace\\SlidingMenuDemo\\library\\build\\intermediates\\exploded-aar\\SlidingMenuDemo\\ActionbarSherlock\\unspecified\\res\\layout-xlarge-v4\\abs__screen_action_bar.xml"
+    }
+]
